@@ -1,7 +1,3 @@
 # 2023-dscb130-tutorial
 
-
-
-
-
-sydöl,kjhbgf 
+Das Github Repository begleitend zum Tutorium im SoSe23 für DSCB130
